@@ -23,7 +23,7 @@ When you have fulfilled the requirements below, make a pull request on this
 repository to turn in your work.
 
 Unless otherwise specified on the calendar or by an instructor, homework is due
-the next morning by 10:00am ET.
+the next morning by 9:00am ET.
 
 ### Prep for JavaScript Data Types
 
