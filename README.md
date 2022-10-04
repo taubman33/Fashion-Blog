@@ -3,21 +3,21 @@
 # Fashion Blog
 
 Hone your skills in HTML & CSS by building a page that is based on a mock up!
+![Imgur](https://i.imgur.com/pNv1rCg.png)
+
 
 ## Prerequisites
 
 - HTML & CSS
-- Flexbox and Grid
+- Flexbox 
 
 ## Instructions
 
-You do not have the necessary rights to update this repository. Therefore, you
-must fork it, make changes to your fork, and then send a pull request to the
-owners of this repository:
+The owner is looking to have a similar webpage as the one below and has hired you for the J-O-B.
 
+Be sure to:
 1. Fork and clone this repository.
-1. Change into the new directory and create a development branch to work on.
-1. Fulfill the listed requirements.
+2. Fulfill the listed requirements.
 
 When you have fulfilled the requirements below, make a pull request on this
 repository to turn in your work.
@@ -25,9 +25,6 @@ repository to turn in your work.
 Unless otherwise specified on the calendar or by an instructor, homework is due
 the next morning by 9:00am ET.
 
-### Prep for JavaScript Data Types
-
-Once you've completed the requirements, review this [short video](https://www.youtube.com/watch?time_continue=4&v=_r_LCMBvxmg&feature=emb_logo) on JavaScript Data Types so you're ready for the upcoming lectures.
 
 ## Requirements
 
@@ -74,3 +71,8 @@ _Awesome job, add, commit and push changes to create your pull request!_
 ### Bonus
 
 - Use [Google Fonts](https://fonts.google.com/).
+
+
+# Prep for JavaScript Data Types
+
+Once you've completed the requirements, review this [short video](https://www.youtube.com/watch?time_continue=4&v=_r_LCMBvxmg&feature=emb_logo) on JavaScript Data Types so you're ready for the upcoming lectures.
