@@ -1,23 +1,25 @@
+### SEIR 123
+
 [![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
 # Fashion Blog
 
 Hone your skills in HTML & CSS by building a page that is based on a mock up!
+![Imgur](https://i.imgur.com/pNv1rCg.png)
+
 
 ## Prerequisites
 
 - HTML & CSS
-- Flexbox and Grid
+- Flexbox 
 
 ## Instructions
 
-You do not have the necessary rights to update this repository. Therefore, you
-must fork it, make changes to your fork, and then send a pull request to the
-owners of this repository:
+The owner is looking to have a similar webpage as the one below and has hired you for the J-O-B.
 
+Be sure to:
 1. Fork and clone this repository.
-1. Change into the new directory and create a development branch to work on.
-1. Fulfill the listed requirements.
+2. Fulfill the listed requirements.
 
 When you have fulfilled the requirements below, make a pull request on this
 repository to turn in your work.
@@ -25,9 +27,6 @@ repository to turn in your work.
 Unless otherwise specified on the calendar or by an instructor, homework is due
 the next morning by 9:00am ET.
 
-### Prep for JavaScript Data Types
-
-Once you've completed the requirements, review this [short video](https://www.youtube.com/watch?time_continue=4&v=_r_LCMBvxmg&feature=emb_logo) on JavaScript Data Types so you're ready for the upcoming lectures.
 
 ## Requirements
 
@@ -45,10 +44,8 @@ Faithfully reproduce the mockup in HTML & CSS.
    1. Wrap each link in an anchor tag
    1. Wrap each anchor tag in a list item
    1. Wrap all of the list item tags in an unordered list tag
-   1. Place the unordered list inside the the nav tag and give it attributes for `aria-label="Main Navigation"` and `role="navigation"`
 1. Mark up both of the blog posts using the [`article`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article) tag.
 1. Use this [W3C WAI Guideline](https://www.w3.org/WAI/tips/developing/#use-mark-up-to-convey-meaning-and-structure) example, to help you structure your blog post content. Follow the pattern! Make sure there is a `p` tag that contains some lorem ipsum text (Remember you can create this with Emmet by typing `p>lorem` and pressing tab)!
-1. Make sure your images all have `alt` attributes so that they are accessible.
 1. Inside the page footer, use the same technique you used earlier to create a semantic and accessible navigation, using a wrapping `nav` tag, unordered list and the aria attributes.
 1. Add a copyright in the `footer`. For the &copy; symbol, use an [html entity](https://www.w3schools.com/html/html_entities.asp).
 
@@ -74,3 +71,11 @@ _Awesome job, add, commit and push changes to create your pull request!_
 ### Bonus
 
 - Use [Google Fonts](https://fonts.google.com/).
+___
+## Submission Guidelines
+* Pull Requests must be submitted utilizing these guidelines: [PR Guidelines](https://github.com/bmorataya3/Pull-Request-Template)
+
+___
+### Prep for JavaScript Data Types
+
+Once you've completed the requirements, review this [short video](https://www.youtube.com/watch?time_continue=4&v=_r_LCMBvxmg&feature=emb_logo) on JavaScript Data Types so you're ready for the upcoming lectures.
